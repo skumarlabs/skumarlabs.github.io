@@ -1,16 +1,57 @@
 ---
 layout: default
 ---
-# About Me
+# ABOUT ME
 
 A Google Cloud Certified - Professional Data Engineer and experienced in Data Science for ~4 years, an excellent understanding of NLP techniques, web scraping, building end-to-end predictive models and deploying them on cloud platforms like GCP, AWS etc as web API.
 
 Working as a Data Scientist, my working domain include Google Analytics and predictive modelling focused towards remarketing, social media analysis and other applications of machine learning to increase the user engagement with client's product.
 
-## [](#link)Solutions I Have Developed
+## [](#link)SOLUTIONS I HAVE DEVELOPED
 
 1. [Khas Apke Liye - A Content Based News Article Recommendation System](khas-apke-liye)
 2. [PredictN For Remarketing](predictn)
 3. [Social Listening](social-listening)
 4. [TV Ad Analysis](tv-ad-analysis)
 5. [Feature Attribution Analysis for Conversion](feature-attr)
+
+
+## CORE COMPETENCIES
+1. Predictive Modeling
+2. Deep Learning
+3. Statistics
+4. Time Series Analysis
+5. Topic Modeling
+6. Web Scraping
+7. API development
+8. Google Cloud Platform
+9. Google Analytics
+10. Data Studio Reporting
+
+## MY SKILL SET
+### WorkFlow
+Visual Studio Code, Git, Docker. Remote Development on Ubuntu
+
+### Machine Learning Librararies / Tools
+TensorFlow, Keras, NumPy, Pandas, Scikit-Learn, Catboost, Matplotlib, Seaborn, Google Analytics, PySpark, NLTK, Gensim, Stanford CoreNLP, RapidMiner
+
+### Google Cloud Platform
+Compute Engine, App Engine, Kubernetes Engine, Cloud Functions, Datastore, Cloud Storage, Networking, Stackdriver, Dataflow, BigQuery, ML Engine
+
+### Python 3
+Modular and efficient code writing abilty with really good debugging skills
+
+### Web Development
+HTML, JavaScript, CSS, Flask, FastAPI
+
+### Database and Warehouse
+BigQuery, DataStore, MySQL, MongoDB
+
+## CERTIFICATIONS & COURSES
+1. Google Cloud Certified Professional Data Engineer
+2. Networking in Google Cloud Platform training at Google, Gurgaon on May 7, 2019 to May 8, 2019
+3. Machine Learning with Tensorflow on Google Cloud Platform by Google on Coursera
+4. Deep Learning A-Z: Hands-on Artificial Neural Networks on Udemy Inc 
+5. Machine Learning A-Z: Hands-On Python & R In Data Science on Udemy Inc
+6. Building Spark applications on Safari Online
+7. Cyber Crime & Security - A 12-day certification course organized in association with the Indian Cyber Army during 20 May - 2 June 2013
