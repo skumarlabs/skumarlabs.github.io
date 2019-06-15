@@ -3,16 +3,15 @@ layout: default
 ---
 [Link to another page](another-page).
 
+# About Me
 
-# Header 1
+A Google Cloud Certified - Professional Data Engineer and experienced in Data Science for ~4 years, an excellent understanding of NLP techniques, web scraping, building end-to-end predictive models and deploying them on cloud platforms like GCP, AWS etc as web API.
 
-A list of projects I have worked with.
+Working as a Data Scientist, my working domain include Google Analytics and predictive modelling focused towards remarketing, social media analysis and other applications of machine learning to increase the user engagement with client's product.
 
-## [](#header-2)Header 2
+## [](#header-2)Solution I Have Developed
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Khas Apke Liye - A Content Based News Article Recommendation System](khas-apke-liye)
 
 ### [](#header-3)Header 3
 
