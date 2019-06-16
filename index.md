@@ -49,10 +49,10 @@ BigQuery, DataStore, MySQL, MongoDB
 
 
 ## CERTIFICATIONS & COURSES
-1. [https://www.credential.net/geolcgrf?key=b137a4f45bb3a2a2d263082203d8a76c3331717dad25c0112e2aed61ba3416e2]Google Cloud Certified Professional Data Engineer
-2. Networking in Google Cloud Platform training at Google, Gurgaon on May 7, 2019 to May 8, 2019
-3. Machine Learning with Tensorflow on Google Cloud Platform by Google on Coursera
-4. Deep Learning A-Z: Hands-on Artificial Neural Networks on Udemy Inc 
-5. Machine Learning A-Z: Hands-On Python & R In Data Science on Udemy Inc
-6. Building Spark applications on Safari Online
+1. [Google Cloud Certified Professional Data Engineer](https://www.credential.net/geolcgrf?key=b137a4f45bb3a2a2d263082203d8a76c3331717dad25c0112e2aed61ba3416e2)
+2. [Networking in Google Cloud Platform](https://events.withgoogle.com/networking-gcp-gurgaon-427468/) training at Google, Gurgaon on May 7, 2019 to May 8, 2019
+3. [Machine Learning with Tensorflow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) by Google on Coursera
+4. [Deep Learning A-Z: Hands-on Artificial Neural Networks](https://www.udemy.com/deeplearning/) on Udemy Inc 
+5. [Machine Learning A-Z: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/) on Udemy Inc
+6. [Building Spark applications](https://www.oreilly.com/library/view/building-spark-applications/9780134393490/) on Safari Online By Jonathan Dinu
 7. Cyber Crime & Security - A 12-day certification course organized in association with the Indian Cyber Army during 20 May - 2 June 2013
