@@ -17,16 +17,16 @@ Working as a Data Scientist, my working domain include Google Analytics and pred
 
 
 ## CORE COMPETENCIES
-1. Predictive Modeling
-2. Deep Learning
-3. Statistics
-4. Time Series Analysis
-5. Topic Modeling
-6. Web Scraping
-7. API development
-8. Google Cloud Platform
-9. Google Analytics
-10. Data Studio Reporting
+* Predictive Modeling
+* Deep Learning
+* Statistics
+* Time Series Analysis
+* Topic Modeling
+* Web Scraping
+* API development
+* Google Cloud Platform
+* Google Analytics
+* Google Data Studio Reporting
 
 ## MY SKILL SET
 ### WorkFlow
@@ -47,8 +47,9 @@ HTML, JavaScript, CSS, Flask, FastAPI
 ### Database and Warehouse
 BigQuery, DataStore, MySQL, MongoDB
 
+
 ## CERTIFICATIONS & COURSES
-1. Google Cloud Certified Professional Data Engineer
+1. [https://www.credential.net/geolcgrf?key=b137a4f45bb3a2a2d263082203d8a76c3331717dad25c0112e2aed61ba3416e2]Google Cloud Certified Professional Data Engineer
 2. Networking in Google Cloud Platform training at Google, Gurgaon on May 7, 2019 to May 8, 2019
 3. Machine Learning with Tensorflow on Google Cloud Platform by Google on Coursera
 4. Deep Learning A-Z: Hands-on Artificial Neural Networks on Udemy Inc 
