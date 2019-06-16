@@ -13,7 +13,7 @@ Working as a Data Scientist, my working domain include Google Analytics and pred
 2. [PredictN For Remarketing](predictn)
 3. [Social Listening](social-listening)
 4. [TV Ad Analysis](tv-ad-analysis)
-5. [Feature Attribution Analysis for Conversion](feature-attr)
+5. [Feature Attribution Analysis for Conversion](feature-attribution)
 
 
 ## CORE COMPETENCIES
