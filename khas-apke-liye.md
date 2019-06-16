@@ -1,5 +1,8 @@
+---
+layout: default
+title: Khas Apke Liye
+---
 # Khas Apke Liye
-
 ## Description
 A content-based recommendation engine to serve better & personalized news articles on the website of Dainik Jagran Hindi daily having 31M+ readers per month
 

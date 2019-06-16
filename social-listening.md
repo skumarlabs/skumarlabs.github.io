@@ -1,5 +1,8 @@
+---
+layout: default
+title: Social Listening
+---
 # Social Listening
-
 ## Description
 This project involved social media analysis for a fashion brand and an online shopping giant to give insights into how their brand was perceived by their users
 

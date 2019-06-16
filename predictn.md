@@ -3,7 +3,6 @@ layout: default
 title: PredictN For Remarketing
 ---
 # PredictN For Remarketing
-
 ## Description
 A Prediction SaaS platform which predicts qualified audience list for remarketing who carry the higher probability of conversion on your site within the next ‘N’ days
 
