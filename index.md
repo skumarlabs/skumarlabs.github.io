@@ -3,11 +3,11 @@ layout: default
 title: Surendra Kumar | Data Scientist | A Google Cloud Certified - Professional Data Engineer
 ---
 # WHAT I AM
-A Google Cloud Certified - Professional Data Engineer and experienced in Data Science for ~4 years, an excellent understanding of NLP techniques, web scraping, building end-to-end predictive models and deploying them on cloud platforms like GCP, AWS etc as web API.
+A Google Cloud Certified - Professional Data Engineer and experienced in Data Science for ~4 years, an excellent understanding of NLP techniques, web scraping, building end-to-end predictive models and deploying them on Google Cloud Platform as web API.
 
 Working as a Data Scientist, my working domain include Google Analytics and predictive modelling focused towards remarketing, social media analysis and other applications of machine learning to increase the user engagement with client's product.
 
-## [](#link)WHAT I HAVE DEVELOPED
+## [](#what-i-have-developed)WHAT I HAVE DEVELOPED
 1. [Khas Apke Liye - A Content Based News Article Recommendation System](khas-apke-liye)
 2. [PredictN For Remarketing](predictn)
 3. [Social Listening](social-listening)
@@ -15,16 +15,16 @@ Working as a Data Scientist, my working domain include Google Analytics and pred
 5. [Feature Attribution Analysis for Conversion](feature-attribution)
 
 ## CORE COMPETENCIES
-* Predictive Modeling
-* Deep Learning
-* Statistics
-* Topic Modeling
-* Time Series Analysis
-* Web Scraping
-* API development
-* Google Cloud Platform
-* Google Analytics
-* Google Data Studio Reporting
+* [Predictive Modeling](https://en.wikipedia.org/wiki/Predictive_modelling)
+* [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
+* [Statistics](https://en.wikipedia.org/wiki/Statistics)
+* [Topic Modeling](https://en.wikipedia.org/wiki/Topic_modeling)
+* [Time Series Analysis](https://en.wikipedia.org/wiki/Time_series)
+* [Web Scraping](https://en.wikipedia.org/wiki/Web_scraping)
+* [Web API development](https://en.wikipedia.org/wiki/Web_API)
+* [Google Cloud Platform](https://cloud.google.com/)
+* [Google Analytics](https://analytics.google.com/analytics/web/)
+* [Google Data Studio Reporting](https://datastudio.google.com/)
 
 ## MY SKILL SET
 ### WorkFlow
@@ -46,5 +46,5 @@ BigQuery, DataStore, MySQL, MongoDB
 * [Machine Learning with Tensorflow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) by Google on Coursera
 * [Deep Learning A-Z: Hands-on Artificial Neural Networks](https://www.udemy.com/deeplearning/) on Udemy Inc 
 * [Machine Learning A-Z: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/) on Udemy Inc
-* [Building Spark applications](https://www.oreilly.com/library/view/building-spark-applications/9780134393490/) on Safari Online By Jonathan Dinu
+* [Building Spark applications](https://www.oreilly.com/library/view/building-spark-applications/9780134393490/) on Safari Online By [Jonathan Dinu](http://hopelessoptimism.com/)
 * Cyber Crime & Security - A 12-day certification course organized in association with the Indian Cyber Army during 20 May - 2 June 2013
