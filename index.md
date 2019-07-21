@@ -5,7 +5,7 @@ title: Surendra Kumar | Data Scientist | A Google Cloud Certified - Professional
 # WHAT I AM
 A Google Cloud Certified - Professional Data Engineer and experienced in Data Science for ~4 years, an excellent understanding of NLP techniques, web scraping, building end-to-end predictive models and deploying them on Google Cloud Platform as web API.
 
-Working as a Data Scientist, my working domain include Google Analytics and predictive modelling focused towards remarketing, social media analysis and other applications of machine learning to increase the user engagement with client's product.
+Working as a Data Scientist, my working domain include Google Analytics and predictive modelling focused towards remarketing, social media analysis and other applications of machine learning to increase the user engagement with client's product. [My pdf format CV](Surendra_Kumar_Data_Scientist_4_years.pdf)
 
 ## [](#what-i-have-developed)WHAT I HAVE DEVELOPED
 1. [Khas Apke Liye - A Content Based News Article Recommendation System](khas-apke-liye)
