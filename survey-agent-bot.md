@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: default
 title: Survey Agent Bot
 ---
 [Back to project list](https://skumarlabs.github.io/#what-i-have-developed)
