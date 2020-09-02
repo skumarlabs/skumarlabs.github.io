@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: Social Listening
 ---
 [Back to project list](https://skumarlabs.github.io/#what-i-have-developed)

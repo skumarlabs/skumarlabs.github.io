@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: custom
 title: PredictN For Remarketing
 ---
 [Back to project list](https://skumarlabs.github.io/#what-i-have-developed)

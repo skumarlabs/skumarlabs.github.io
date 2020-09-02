@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Surendra Kumar | Data Scientist | A Google Cloud Certified - Professional Data Engineer
+layout: custom
+title: Home
 ---
 # WHAT I AM
 A Google Cloud Certified - Professional Data Engineer and experienced in Data Science for ~4 years, an excellent understanding of NLP techniques, web scraping, building end-to-end predictive models and deploying them on Google Cloud Platform as web API.

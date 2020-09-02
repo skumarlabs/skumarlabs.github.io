@@ -5,5 +5,4 @@ Gemfile
 Gemfile.lock
 config
 settings.json
-.gitignore
 .idea
