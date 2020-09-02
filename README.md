@@ -19,4 +19,5 @@ gem install jekyll bundler
 bundle init
 
 bundle exec jekyll build
+
 bundle exec jekyll serve
