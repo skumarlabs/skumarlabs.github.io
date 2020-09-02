@@ -1,7 +1,6 @@
 vendor/*
 _site/*
 assests/*
-Gemfile
 Gemfile.lock
 config
 settings.json
