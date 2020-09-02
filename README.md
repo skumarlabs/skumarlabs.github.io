@@ -21,3 +21,5 @@ bundle init
 bundle exec jekyll build
 
 bundle exec jekyll serve
+
+### https://jekyllrb.com/docs/step-by-step/01-setup/
