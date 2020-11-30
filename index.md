@@ -8,13 +8,13 @@ A Google Cloud Certified - Professional and experienced in Data Science for >5 y
 Working as a Data Scientist, my working domain include Google Analytics and predictive modelling focused towards remarketing, social media analysis and other applications of machine learning to increase the user engagement with client's product. [My pdf format CV](Surendra_Kumar_Data_Engineer_5_Years.pdf)
 
 ## [](#what-i-have-developed)WHAT I HAVE DEVELOPED
-1. [Google Cloud Projects/Architecture Designs](gcp-projects)
-2. [Survey Agent Bot Using Dialogflow Framework](survey-agent-bot)
-3. [Khas Apke Liye - A Content Based News Article Recommendation System](khas-apke-liye)
-4. [PredictN For Remarketing](predictn)
-5. [Social Listening](social-listening)
-6. [TV Ad Analysis](tv-ad-analysis)
-7. [Feature Attribution Analysis for Conversion](feature-attribution)
+1. [Google Cloud Projects/Architecture Designs](/pages/gcp-projects)
+2. [Survey Agent Bot Using Dialogflow Framework](/pages/survey-agent-bot)
+3. [Khas Apke Liye - A Content Based News Article Recommendation System](/pages/khas-apke-liye)
+4. [PredictN For Remarketing](/pages/predictn)
+5. [Social Listening](/pages/social-listening)
+6. [TV Ad Analysis](/pages/tv-ad-analysis)
+7. [Feature Attribution Analysis for Conversion](/pages/feature-attribution)
 
 ## CORE COMPETENCIES
 * [Predictive Modeling](https://en.wikipedia.org/wiki/Predictive_modelling)
