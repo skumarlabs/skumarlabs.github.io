@@ -3,17 +3,18 @@ layout: custom
 title: Home
 ---
 # WHAT I AM
-A Google Cloud Certified - Professional Data Engineer and experienced in Data Science for ~4 years, an excellent understanding of NLP techniques, web scraping, building end-to-end predictive models and deploying them on Google Cloud Platform as web API.
+A Google Cloud Certified - Professional and experienced in Data Science for >5 years, an excellent understanding of NLP techniques, web scraping, building end-to-end predictive models and deploying them on Google Cloud Platform as web API.
 
-Working as a Data Scientist, my working domain include Google Analytics and predictive modelling focused towards remarketing, social media analysis and other applications of machine learning to increase the user engagement with client's product. [My pdf format CV](/files/Surendra_Kumar_Data_Scientist_4+_Years.pdf)
+Working as a Data Scientist, my working domain include Google Analytics and predictive modelling focused towards remarketing, social media analysis and other applications of machine learning to increase the user engagement with client's product. [My pdf format CV](Surendra_Kumar_Data_Engineer_5_Years.pdf)
 
 ## [](#what-i-have-developed)WHAT I HAVE DEVELOPED
-1. [Survey Agent Bot Using Dialogflow Framework](/pages/survey-agent-bot)
-2. [Khas Apke Liye - A Content Based News Article Recommendation System](/pages/khas-apke-liye)
-3. [PredictN For Remarketing](/pages/predictn)
-4. [Social Listening](/pages/social-listening)
-5. [TV Ad Analysis](/pages/tv-ad-analysis)
-6. [Feature Attribution Analysis for Conversion](/pages/feature-attribution)
+1. [Google Cloud Projects/Architecture Designs](gcp-projects)
+2. [Survey Agent Bot Using Dialogflow Framework](survey-agent-bot)
+3. [Khas Apke Liye - A Content Based News Article Recommendation System](khas-apke-liye)
+4. [PredictN For Remarketing](predictn)
+5. [Social Listening](social-listening)
+6. [TV Ad Analysis](tv-ad-analysis)
+7. [Feature Attribution Analysis for Conversion](feature-attribution)
 
 ## CORE COMPETENCIES
 * [Predictive Modeling](https://en.wikipedia.org/wiki/Predictive_modelling)
@@ -42,8 +43,10 @@ HTML, JavaScript, CSS, Flask, FastAPI
 ### Database and Warehouse
 BigQuery, DataStore, MySQL, MongoDB
 
+
 ## CERTIFICATIONS & COURSES
-* [Google Cloud Certified Professional Data Engineer](https://www.credential.net/geolcgrf?key=b137a4f45bb3a2a2d263082203d8a76c3331717dad25c0112e2aed61ba3416e2)
+* [Google Cloud Certified Professional Cloud Architect](https://www.credential.net/9e80f6d3-6181-4a8e-9966-130984ce5753)
+* [Google Cloud Certified Professional Data Engineer](https://www.credential.net/26ab303d-4792-4d7a-a9eb-aae0c99bedc5)
 * [Networking in Google Cloud Platform](https://events.withgoogle.com/networking-gcp-gurgaon-427468/) training at Google, Gurgaon on May 7, 2019 to May 8, 2019
 * [Machine Learning with Tensorflow on Google Cloud Platform](https://www.coursera.org/specializations/machine-learning-tensorflow-gcp) by Google on Coursera
 * [Deep Learning A-Z: Hands-on Artificial Neural Networks](https://www.udemy.com/deeplearning/) on Udemy Inc 
